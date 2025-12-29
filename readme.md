@@ -14,7 +14,7 @@ It supports user authentication, book inventory management, borrowing workflows,
 
 ## Setup Instructions
 
-git clone <REPOSITORY_URL>
+git clone (https://github.com/ayushpan007/huemen)
 cd huemen
 npm install
 
